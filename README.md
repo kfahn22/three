@@ -6,7 +6,7 @@ I am experimenting with using THREE.js in openprocessing.
 
 Based on a couple of THREE.js tutorials by Bobby Roe, I recently created a sketch for #WCCChallenge "Earth", with a nod to "Hitchhiker's Guide to the Galaxy" by Douglas Adams. You can play with the sketch [here](https://openprocessing.org/sketch/2712156).
 
-The challenge topic for this week is "Greenhouse."  I am still working on the sketch, but you can find the current version in the greenhouse folder.
+The challenge topic for this week is "Greenhouse."  I am still working on the sketch, but you can find the current version [here](https://openprocessing.org/sketch/2722584).
 
 TODO:
 Add something inside the greenhouse.
