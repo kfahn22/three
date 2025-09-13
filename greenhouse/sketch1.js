@@ -10,6 +10,7 @@ https://github.com/mrdoob/three.js/blob/master/examples/webgl_materials_physical
 https://threejs.org/docs/#api/en/math/Box3 
 https://polyhaven.com/a/pine_picnic
 https://docs.polyhaven.com/en/faq
+Sergej Majboroda: https://polyhaven.com/a/autumn_park
 Authors: Dimitrios Savva and Jarod Guest: https://polyhaven.com/a/symmetrical_garden_02
 */
 
