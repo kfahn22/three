@@ -2,6 +2,9 @@
 
 Experimenting with using THREE.js in openprocessing.
 
+<p align="center"><img src="assets/earth.jpg" alt="Mostly Harmless" width="800px"></p>
+[Mostly Harmless](https://openprocessing.org/sketch/2712156)
+
 References:
 
 https://github.com/dimforge/rapier.js
